@@ -4,6 +4,8 @@ mysql workbench - https://dev.mysql.com/downloads/file/?id=546418
 
 xampp - https://www.apachefriends.org/download.html
 
+sql connector: https://dev.mysql.com/downloads/connector/j/
+
 mysql code: 
 -- Create database
 drop database probe_management_system;
